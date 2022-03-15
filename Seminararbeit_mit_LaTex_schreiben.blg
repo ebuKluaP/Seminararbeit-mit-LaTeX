@@ -1,0 +1,15 @@
+[0] Config.pm:307> INFO - This is Biber 2.17
+[0] Config.pm:310> INFO - Logfile is 'Seminararbeit_mit_LaTex_schreiben.blg'
+[119] biber-MSWIN64:340> INFO - === 
+[159] Biber.pm:418> INFO - Reading 'Seminararbeit_mit_LaTex_schreiben.bcf'
+[275] Biber.pm:972> INFO - Found 2 citekeys in bib section 0
+[291] Biber.pm:4383> INFO - Processing section 0
+[306] Biber.pm:4574> INFO - Looking for bibtex file 'Literatur.bib' for section 0
+[377] bibtex.pm:1713> INFO - LaTeX decoding ...
+[388] bibtex.pm:1518> INFO - Found BibTeX data source 'Literatur.bib'
+[435] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[435] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[435] Biber.pm:4203> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'de-DE'
+[435] Biber.pm:4209> INFO - No sort tailoring available for locale 'de-DE'
+[443] bbl.pm:654> INFO - Writing 'Seminararbeit_mit_LaTex_schreiben.bbl' with encoding 'UTF-8'
+[445] bbl.pm:757> INFO - Output to Seminararbeit_mit_LaTex_schreiben.bbl

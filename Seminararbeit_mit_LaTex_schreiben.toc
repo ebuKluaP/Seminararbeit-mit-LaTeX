@@ -1,0 +1,21 @@
+\babel@toc {ngerman}{}\relax 
+\contentsline {chapter}{\numberline {1}Was brauche ich um mit \LaTeX \, zu arbeiten ?}{1}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Aufbau einer \LaTeX -Datei}{2}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Grundstruktur einer \LaTeX -Datei}{2}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Erstellen einer Titelseite und Inhaltsverzeichnis und anpassen der Seitenzahlen}{4}{section.2.2}%
+\contentsline {chapter}{\numberline {3}Fließtexte schreiben und bearbeiten}{6}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Überschriften}{6}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Text bearbeiten \\(Schriftgröße und Art, fett, unterstreichen)}{6}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Text hervorheben}{7}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Absätze, Abstände und Einrückungen}{7}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Sonderzeichen}{8}{section.3.5}%
+\contentsline {chapter}{\numberline {4}Mathematische Inhalte}{9}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Mathematische Sonderzeichen}{9}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Formeln}{9}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Tabellen}{10}{section.4.3}%
+\contentsline {chapter}{\numberline {5}Externe Inhalte einfügen}{12}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Bilder einfügen}{12}{section.5.1}%
+\contentsline {section}{\numberline {5.2}PDF Dateien einfügen}{13}{section.5.2}%
+\contentsline {chapter}{\numberline {6}Zitieren mit \LaTeX }{15}{chapter.6}%
+\contentsline {chapter}{\numberline {7}Versionskontrolle mit GitHub}{17}{chapter.7}%
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
