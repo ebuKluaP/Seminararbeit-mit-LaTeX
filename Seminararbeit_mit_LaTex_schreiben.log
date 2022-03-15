@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.8)  15 MAR 2022 11:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.8)  15 MAR 2022 14:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1265,13 +1265,13 @@ Package biblatex Info: ... file 'Seminararbeit_mit_LaTex_schreiben.bbl' found.
  (Seminararbeit_mit_LaTex_schreiben.bbl)
 Package biblatex Info: Reference section=0 on input line 40.
 Package biblatex Info: Reference segment=0 on input line 40.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 46.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 48.
 
 
 (C:\Users\paulk\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 46.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 48.
 
 
 (C:\Users\paulk\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
@@ -1598,11 +1598,11 @@ Package logreq Info: Writing requests to 'Seminararbeit_mit_LaTex_schreiben.run
 
  ) 
 Here is how much of TeX's memory you used:
- 34719 strings out of 478582
- 664253 string characters out of 2844345
+ 34708 strings out of 478582
+ 664053 string characters out of 2844345
  1470532 words of memory out of 3000000
- 52371 multiletter control sequences out of 15000+600000
- 496664 words of font info for 122 fonts, out of 8000000 for 9000
+ 52360 multiletter control sequences out of 15000+600000
+ 493439 words of font info for 111 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  108i,17n,106p,10630b,2367s stack positions out of 5000i,500n,10000p,200000b,80000s
 {C:/Users/paulk/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/mnsymbol/MnSymb
@@ -1632,7 +1632,7 @@ sy10.pfb><C:/Users/paulk/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfo
 nts/cm/cmti12.pfb><C:/Users/paulk/AppData/Local/Programs/MiKTeX/fonts/type1/pub
 lic/amsfonts/cm/cmtt12.pfb><C:/Users/paulk/AppData/Local/Programs/MiKTeX/fonts/
 type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on Seminararbeit_mit_LaTex_schreiben.pdf (20 pages, 405205 bytes
+Output written on Seminararbeit_mit_LaTex_schreiben.pdf (20 pages, 404358 bytes
 ).
 PDF statistics:
  400 PDF objects out of 1000 (max. 8388607)
